@@ -17,7 +17,7 @@ This project is a starter for creating interface with ` Angular ` using  `bootst
 ### Check-out this link [Trello Board](https://trello.com/b/p9m8lTvO/peronal-bank-with-angular-e-laravel)
 
 
-##Installation
+## Installation
 
 This project is divided in two parts (projects) and before use them you should follow the instructions below:</p>
 
@@ -53,7 +53,7 @@ Local
     host          : protocol+'//localhost',
     apiHost       : 'http://xxxxxxxx.xxx,
     apiVersion    :'v1'           
-    };
+    }
 ```
 Prod 
 
@@ -65,7 +65,7 @@ Prod
     host          : protocol+'//personal-bank.firebaseapp.com',
     apiHost       :'https://api-personal-bank-laravel.herokuapp.com',
     apiVersion    :'v1'  
-    };
+    }
 ```
 
 ### Config Api Calls
@@ -116,11 +116,11 @@ Note: On Production mode don't forget to configure the variables for your email 
 **MAIL_DRIVER**,**MAIL_HOST**,**MAIL_PORT**,**MAIL_USERNAME**,**MAIL_PASSWORD**,**MAIL_ENCRYPTION**
 After registration you receive an active link email which active the account.
 
-##Architecture and Requrements of project
+## Architecture and Requrements of project
 
 Se [https://trello.com/b/p9m8lTvO/peronal-bank-with-angular-e-laravel](https://trello.com/b/p9m8lTvO/peronal-bank-with-angular-e-laravel)
 
-##For You:
+## For You:
 
 You can modify those project how you want and you are welcome for any suggestion or questions.
 
